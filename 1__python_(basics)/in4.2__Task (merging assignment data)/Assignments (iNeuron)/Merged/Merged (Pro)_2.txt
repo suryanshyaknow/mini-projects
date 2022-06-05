@@ -1,0 +1,164 @@
+Programming_Assingment1.docx
+Write a Python program to print "Hello Python"?
+Write a Python program to do arithmetical operations addition and division.?
+Write a Python program to find the area of a triangle?
+Write a Python program to swap two variables?
+Write a Python program to generate a random number?
+Programming_Assingment10.docx
+Write a Python program to find sum of elements in list?
+Write a Python program to  Multiply all numbers in the list?
+Write a Python program to find smallest number in a list?
+Write a Python program to find largest number in a list?
+Write a Python program to find second largest number in a list?
+Write a Python program to find N largest elements from a list?
+Write a Python program to print even numbers in a list?
+Write a Python program to print odd numbers in a List?
+Write a Python program to Remove empty List from List?
+Write a Python program to Cloning or Copying a list?
+Write a Python program to Count occurrences of an element in a list?
+Programming_Assingment11.docx
+Write a Python program to find words which are greater than given length k?
+Write a Python program for removing i-th character from a string?
+Write a Python program to split and join a string?
+Write a Python to check if a given string is binary string or not?
+Write a Python program to find uncommon words from two Strings?
+Write a Python to find all duplicate characters in string?
+Write a Python Program to check if a string contains any special character?
+Programming_Assingment12.docx
+Write a Python program to Extract Unique values dictionary values?
+Write a Python program to find the sum of all items in a dictionary?
+Write a Python program to Merging two Dictionaries?
+Write a Python program to convert key-values list to flat dictionary?
+Write a Python program to insertion at the beginning in OrderedDict?
+Write a Python program to check order of character in string using OrderedDict()?
+Write a Python program to sort Python Dictionaries by Key or Value?
+Programming_Assingment13.docx
+
+
+
+
+
+
+
+
+
+18,22,24
+
+
+
+
+
+
+
+
+Question 3:
+
+
+
+bag,hello,without,world
+
+
+
+Question 4:
+
+
+
+again and hello makes perfect practice world
+
+Question 5:
+
+
+
+
+DIGITS 3
+
+Question 6:
+
+
+
+
+
+
+
+
+
+
+
+
+ABd1234@1
+Programming_Assingment14.docx
+Define a class with a generator which can iterate the numbers, which are divisible by 7, between a given range 0 and n.
+
+Question 2:
+
+
+
+
+
+
+
+
+
+
+
+
+
+to:1
+
+
+Define a class Person and its two child classes: Male and Female. All classes have a method "getGender" which can print "Male" for Male class and "Female" for Female class.
+
+Question 4:
+Please write a program to generate all sentences where subject is in ["I", "You"] and verb is in ["Play", "Love"] and the object is in ["Hockey","Football"].
+
+
+Question 5:
+Please write a program to compress and decompress the string "hello world!hello world!hello world!hello world!".
+
+Question 6:
+Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list.
+Programming_Assingment15.docx
+Question 1:
+Please write a program using generator to print the numbers which can be divisible by 5 and 7 between 0 and n in comma separated form while n is input by console.
+Example:
+If the following n is given as input to the program:
+100
+Then, the output of the program should be:
+0,35,70
+
+Question 2:
+Please write a program using generator to print the even numbers between 0 and n in comma separated form while n is input by console.
+Example:
+If the following n is given as input to the program:
+10
+Then, the output of the program should be:
+0,2,4,6,8,10
+
+Question 3:
+The Fibonacci Sequence is computed based on the following formula:
+f(n)=0 if n=0
+f(n)=1 if n=1
+f(n)=f(n-1)+f(n-2) if n>1
+Please write a program using list comprehension to print the Fibonacci Sequence in comma separated form with a given n input by console.
+Example:
+If the following n is given as input to the program:
+7
+
+Then, the output of the program should be:
+0,1,1,2,3,5,8,13
+
+Question 4:
+Assuming that we have some email addresses in the "" format, please write program to print the user name of a given email address. Both user names and company names are composed of letters only.
+Example:
+If the following email address is given as input to the program:
+
+Then, the output of the program should be:
+john
+
+Question 5:
+Define a class named Shape and its subclass Square. The Square class has an init function which takes a length as argument. Both classes have a area function which can print the area of the shape where Shape's area is 0 by default.
+
+Programming_Assingment16.docx
+Question1. Write a function that stutters a word as if someone is struggling to read it. The first two letters are repeated twice with an ellipsis ... and space after each, and then the word is pronounced with a question mark ?.
+Examples
+stutter("incredible") 
